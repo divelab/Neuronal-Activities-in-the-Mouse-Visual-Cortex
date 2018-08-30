@@ -1,7 +1,7 @@
 # Neuronal-Activities-in-the-Mouse-Visual-Cortex
 
 
-Created by [Lei Cai](http://eecs.wsu.edu/~lcai/) and [Shuiwang Ji](http://www.eecs.wsu.edu/~sji/) at Washington State University.
+Created by [Lei Cai](http://eecs.wsu.edu/~lcai/) and [Shuiwang Ji](http://www.eecs.wsu.edu/~sji/) at Texas A&M University.
 
 ## Introduction
 
